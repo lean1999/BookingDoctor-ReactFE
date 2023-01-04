@@ -1,0 +1,25 @@
+.manage-specialty-container{
+    margin: 0 200px;
+    max-width: 960px;
+    .ms-title{
+        text-align: center;
+        text-transform: uppercase;
+        margin: 10px 0;
+        font-size: 30px;
+        
+
+    }
+    .add-new-specialty{
+        .form-group{
+            margin: 10px 0;
+        }
+        .form-control-file{
+            margin: 0 20px;
+        }
+        .button{
+            padding: 10px 15px;    
+            min-width:75px ;
+        }
+    }
+
+}
